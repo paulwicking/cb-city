@@ -6,6 +6,7 @@
 class GameState
 {
     public:
+    // ~GameState();
 
     Game* game;
 

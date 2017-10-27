@@ -43,6 +43,9 @@
 		<Unit filename="game.cpp" />
 		<Unit filename="game.hpp" />
 		<Unit filename="game_state.hpp" />
+		<Unit filename="game_state_editor.hpp" />
+		<Unit filename="game_state_start.cpp" />
+		<Unit filename="game_state_start.hpp" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<code_completion />
